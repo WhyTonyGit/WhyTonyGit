@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm Tony
 
-Welcome to my GitHub profile! I'm passionate about software development, primarily working with **Java**, **C++**, and **Kotlin**.
+![GIF Demo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2F3QJL&psig=AOvVaw1L58YtI8XZDPmemwmvBEyi&ust=1742244151666000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPC6s727j4wDFQAAAAAdAAAAABAE)
+
+
+Welcome to my GitHub profile! I'm passionate about software development, primarily working with **Java**, **C++**
+
 
 ## About Me
 
