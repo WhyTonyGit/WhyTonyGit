@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Tony
+[![Profile Views](https://komarev.com/ghpvc/?username=WhyTonyCry&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/WhyTonyCry)
+
 
 ![GIF Demo](https://i.gifer.com/7eEI.gif)
 
-![Profile Views](https://komarev.com/ghpvc/?username=WhyTonyCry&style=for-the-badge&color=blue)
 
 
 Welcome to my GitHub profile! I'm passionate about software development, primarily working with **Java**, **C++**
