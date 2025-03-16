@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Tony
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-12345-blue?style=for-the-badge&logo=github)](https://github.com/WhyTonyCry)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=WhyTonyCry&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/WhyTonyCry)
 
 
 ![GIF Demo](https://i.gifer.com/7eEI.gif)
