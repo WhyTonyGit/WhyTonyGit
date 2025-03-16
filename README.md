@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=WhyTonyCry&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/WhyTonyCry)
 
 
-![GIF Demo](https://i.gifer.com/7eEI.gif)
+![GIF Demo](https://i.gifer.com/OzV.gif)
 
 
 
