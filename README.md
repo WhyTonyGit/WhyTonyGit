@@ -12,9 +12,8 @@ Welcome to my GitHub profile! I'm passionate about software development, primari
 
 - **Programming Languages**:  
   - Java  
-  - C++  
-  - Kotlin
-
+  - C++
+  
 - **Tools and Technologies**:
   - Spring, Hibernate
   - Gradle, Maven
