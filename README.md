@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Tony
 
-![GIF Demo](https://i.gifer.com/OzV.gif)
+![GIF Demo](https://i.gifer.com/7eEI.gif)
 
 
 Welcome to my GitHub profile! I'm passionate about software development, primarily working with **Java**, **C++**
