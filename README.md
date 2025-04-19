@@ -23,8 +23,7 @@ Welcome to my GitHub profile! I'm passionate about software development, primari
   - C++
   
 - **Tools and Technologies**:
-  - Spring, Hibernate
-  - Gradle, Maven
+  - Maven
   - Git, Docker
 
 ## Open Projects
