@@ -34,11 +34,6 @@ Welcome to my GitHub profile! I'm passionate about software development, primari
   - CI/CD
   - REST API
 
-## Open Projects
-
-- 🚧 Currently working on [Daily Planner App](https://github.com/WhyTonyCry/Backend-daily-planner), a tool for daily planning and task management.
-- 🔍 Exploring new frameworks and libraries to enhance my skills in high-performance system development.
-
 ### 📬 Contact Me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/its_for_git)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whytonycry@gmail.com)
