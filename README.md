@@ -21,10 +21,18 @@ Welcome to my GitHub profile! I'm passionate about software development, primari
 - **Programming Languages**:  
   - Java  
   - C++
+  - Kotlin
+  - SQL
   
 - **Tools and Technologies**:
-  - Maven
+  - Maven, Gradle
   - Git, Docker
+  - PostgreSQL, ClickHouse
+  - Spring, JUnit, Lombok, JaCoCo
+  - Grafana, Prometheus
+  - Yandex Load Testing Tool
+  - CI/CD
+  - REST API
 
 ## Open Projects
 
