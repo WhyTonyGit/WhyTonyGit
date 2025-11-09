@@ -7,7 +7,7 @@
 
 
 
-Welcome to my GitHub profile! I'm passionate about software development, primarily working with **Java**, **C++**
+Welcome to my GitHub profile! I'm passionate about software development, primarily working with **Java**, **C++**, **Kotlin**
 
 
 ## About Me
